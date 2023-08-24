@@ -1,0 +1,9 @@
+reloj:
+ropa_interior: pantalones zapatos
+medias: zapatos
+pantalones: zapatos correa
+camiseta: correa corbata
+zapatos:
+correa: chaqueta
+corbata: chaqueta
+chaqueta:
